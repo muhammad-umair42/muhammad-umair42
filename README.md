@@ -15,7 +15,7 @@ I have a strong passion for the MERN (MongoDB, Express.js, React, Node.js) stack
 
 ### 📫 Let's Connect
 
-- LinkedIn: [[Your LinkedIn Profile](link-to-linkedin](https://www.linkedin.com/in/muhammad-umair-a382252a6/))
+- LinkedIn: [https://www.linkedin.com/in/muhammad-umair-a382252a6/)
 
 ### 🤝 Open to Collaboration
 
@@ -24,7 +24,7 @@ I'm open to collaboration and always looking to work on interesting projects. If
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-umair42&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### 🙏 Thanks for visiting my profile!
 
