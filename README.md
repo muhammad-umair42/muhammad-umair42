@@ -24,7 +24,11 @@ I'm open to collaboration and always looking to work on interesting projects. If
 
 ### 📊 GitHub Stats
 
-[![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-umair42)](https://github.com/muhammad-umair42/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-umair42&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umair42&layout=compact)
+
+
 
 ### 🙏 Thanks for visiting my profile!
 
