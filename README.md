@@ -24,7 +24,7 @@ I'm open to collaboration and always looking to work on interesting projects. If
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=muhammad-umair42&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats]([https://github-readme-stats-ruby-one.vercel.app](https://github-readme-stats.vercel.app)/api?username=muhammad-umair42&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### 🙏 Thanks for visiting my profile!
 
