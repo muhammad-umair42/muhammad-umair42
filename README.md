@@ -16,6 +16,7 @@ I have a strong passion for the MERN (MongoDB, Express.js, React, Node.js) stack
 ### 📫 Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/muhammad-umair-a382252a6/)
+- Blog: [https://umair42.hashnode.dev/)
 
 ### 🤝 Open to Collaboration
 
