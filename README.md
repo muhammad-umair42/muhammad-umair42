@@ -6,9 +6,10 @@ I have a strong passion for the MERN (MongoDB, Express.js, React, Node.js) stack
 
 ### 🚀 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwindcss, Redux, Nextjs, ReactNative
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **API's:** Rest, GraphQl
+- **Database:** MongoDB, Sql
 - **Version Control:** Git, GitHub
 
 
