@@ -27,10 +27,8 @@ I'm open to collaboration and always looking to work on interesting projects. If
 ## [Github Profile Card](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-```md
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-umair42&theme=nord_dark)
-```
+
 
 
 
