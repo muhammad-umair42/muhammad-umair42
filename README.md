@@ -24,11 +24,13 @@ I have a strong passion for the MERN (MongoDB, Express.js, React, Node.js) stack
 I'm open to collaboration and always looking to work on interesting projects. If you have a project idea or just want to connect, feel free to reach out!
 
 
-### 📊 GitHub Stats
+## [Github Profile Card](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-umair42&show_icons=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-umair42&theme=nord_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-umair42&layout=compact)
+```md
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshraj8843&theme=nord_dark)
+```
 
 
 
